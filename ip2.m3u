@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,|PT| RTP 1 HD
+http://premium-ott.com:8000/live/Sd29nBe84L/Hsydheyd/2345.ts
+#EXTINF:-1,|PT| RTP 1
+http://premium-ott.com:8000/live/Sd29nBe84L/Hsydheyd/15888.ts
+#EXTINF:-1,|PT| RTP 2 HD
+http://premium-ott.com:8000/live/Sd29nBe84L/Hsydheyd/2346.ts
+#EXTINF:-1,|PT| RTP 2
+http://premium-ott.com:8000/live/Sd29nBe84L/Hsydheyd/15889.ts
+#EXTINF:-1,|PT| RTP 3
+http://premium-ott.com:8000/live/Sd29nBe84L/Hsydheyd/2347.ts
+#EXTINF:-1,|PT| SIC HD
+http://premium-ott.com:8000/live/Sd29nBe84L/Hsydheyd/2340.ts
+#EXTINF:-1,|PT| SIC
+http://premium-ott.com:8000/live/Sd29nBe84L/Hsydheyd/15890.ts
+#EXTINF:-1,|PT| TVI HD
+http://premium-ott.com:8000/live/Sd29nBe84L/Hsydheyd/2321.ts
+#EXTINF:-1,|PT| TVI
+http://premium-ott.com:8000/live/Sd29nBe84L/Hsydheyd/15891.ts
+#EXTINF:-1,|PT| SIC MULHER
+http://premium-ott.com:8000/live/Sd29nBe84L/Hsydheyd/2338.ts
+#EXTINF:-1,|PT| SIC RADICAL HD
+http://premium-ott.com:8000/live/Sd29nBe84L/Hsydheyd/2336.ts
+#EXTINF:-1,|PT| SIC RADICAL
+http://premium-ott.com:8000/live/Sd29nBe84L/Hsydheyd/15895.ts
+#EXTINF:-1,|PT| SIC CARAS
+http://premium-ott.com:8000/live/Sd29nBe84L/Hsydheyd/15658.ts
